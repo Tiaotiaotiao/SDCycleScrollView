@@ -31,7 +31,7 @@
 
 
 #import <UIKit/UIKit.h>
-#import <FLAnimatedImageView.h>
+#import "FLAnimatedImageView.h"
 
 @interface SDCollectionViewCell : UICollectionViewCell
 
