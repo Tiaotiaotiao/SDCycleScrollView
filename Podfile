@@ -3,5 +3,7 @@ target 'SDCycleScrollView'
 
 #use_frameworks!
 
-pod 'SDWebImage', '>= 5.0.0'
+#pod 'SDWebImage', '>= 5.0.0'
+pod 'SDWebImage'
+pod 'SDWebImage/WebP'
 pod 'FLAnimatedImage'
