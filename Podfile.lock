@@ -1,37 +1,22 @@
 PODS:
   - FLAnimatedImage (1.0.12)
-  - libwebp (1.1.0):
-    - libwebp/demux (= 1.1.0)
-    - libwebp/mux (= 1.1.0)
-    - libwebp/webp (= 1.1.0)
-  - libwebp/demux (1.1.0):
-    - libwebp/webp
-  - libwebp/mux (1.1.0):
-    - libwebp/demux
-  - libwebp/webp (1.1.0)
-  - SDWebImage (4.4.8):
-    - SDWebImage/Core (= 4.4.8)
-  - SDWebImage/Core (4.4.8)
-  - SDWebImage/WebP (4.4.8):
-    - libwebp (< 2.0, >= 0.5)
-    - SDWebImage/Core
+  - SDWebImage (5.4.2):
+    - SDWebImage/Core (= 5.4.2)
+  - SDWebImage/Core (5.4.2)
 
 DEPENDENCIES:
   - FLAnimatedImage
   - SDWebImage
-  - SDWebImage/WebP
 
 SPEC REPOS:
   trunk:
     - FLAnimatedImage
-    - libwebp
     - SDWebImage
 
 SPEC CHECKSUMS:
   FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
-  libwebp: 946cb3063cea9236285f7e9a8505d806d30e07f3
-  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SDWebImage: 4ca2dc4eefae4224bea8f504251cda485a363745
 
-PODFILE CHECKSUM: 50349c960ebd13beda9cf7cbc5d524eea8e8d788
+PODFILE CHECKSUM: bd9d2742d5b8197853b4fbe6e273232dd9f57ff5
 
 COCOAPODS: 1.8.4

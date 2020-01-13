@@ -5,5 +5,4 @@ target 'SDCycleScrollView'
 
 #pod 'SDWebImage', '>= 5.0.0'
 pod 'SDWebImage'
-pod 'SDWebImage/WebP'
 pod 'FLAnimatedImage'
